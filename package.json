@@ -1,0 +1,19 @@
+{
+  "name": "Constructor-Hangman",
+  "version": "1.0.0",
+  "description": "Hangman game using the command line.",
+  "main": "main.js",
+  "dependencies": {
+    "inquirer": "^4.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
